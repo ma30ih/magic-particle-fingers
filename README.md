@@ -3,6 +3,7 @@
 ![Magic Particle Fingers Demo](demo.gif)
 
 An interactive web experience using AI hand tracking to control magic particles and romantic shapes. 
+*(توضیحات فارسی در پایین صفحه)*
 
 ## 🌟 Try the Live Demo
 👉 **[Click Here to Experience It Live!](https://ma30ih.github.io/magic-particle-fingers/)** 👈
@@ -26,4 +27,12 @@ Hold your hand in front of the camera and count with your fingers. The AI will d
 * Vanilla JavaScript
 * HTML5 `<canvas>` API
 * [Google MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands)
-* 
+
+## 💻 Local Installation
+To run this project locally on your machine, you cannot simply open the `index.html` file due to browser security restrictions regarding camera access. You must use a local server:
+* **VS Code:** Install the "Live Server" extension and click "Go Live".
+* **Python:** Run `python -m http.server` in your terminal.
+
+## 📫 Get In Touch
+I'm an independent game developer and tech enthusiast. Whether it's discussing Unreal Engine 5.7 mechanics, collaborating on new business ventures, or just geeking out over hardware and code, I'd love to connect!
+* **Email:** msyhan85@gmail.com
