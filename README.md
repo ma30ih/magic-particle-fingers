@@ -3,7 +3,6 @@
 ![Magic Particle Fingers Demo](demo.gif)
 
 An interactive web experience using AI hand tracking to control magic particles and romantic shapes. 
-*(توضیحات فارسی در پایین صفحه)*
 
 ## 🌟 Try the Live Demo
 👉 **[Click Here to Experience It Live!](https://ma30ih.github.io/magic-particle-fingers/)** 👈
